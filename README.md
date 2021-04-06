@@ -1,2 +1,2 @@
-# Node-JS-Docker
+# NodeJS-Docker
 Dockerizing-NodeJS
